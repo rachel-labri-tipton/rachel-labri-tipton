@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Rachel Tipton 🇺🇸  🇫🇷  🇪🇺 </h1>
-<h3 align="center">a Full Stack Software Engineer</h3>
+<h1 align="center">Hello GitHub 👋, I am Rachel Tipton - Full Stack Software Engineer </h1>
+<h3 align="center">🇺🇸  🇫🇷  🇪🇺 </h3>
 
 - 🔭 I’m currently working on **Module 4 of General Assembly's Software Engineering Immersive**
 
@@ -7,11 +7,11 @@
 
 - 👩🏻‍🎤🧑🏾‍🎤 I'm looking to collaborate on **MERN Stack or Django-React projects** or **digital humanities** projects. 
 
-- 🌝 In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 
+- In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
 <details>
 <summary>About Me</summary>
-✨ I am a former **University English Professor** and **Freelance Technical Editor & Translator** who has retooled as a Software Engineer with General Assembly's Software Engineering Immersive (November 2021 - May 2022) 🐬  💫  🐳  ✨ 
+✨ I am a former University English Professor and Freelance Technical Editor & Translator who has retooled as a Software Engineer with General Assembly's Software Engineering Immersive (November 2021 - May 2022) 🐬  💫  🐳  ✨ 
 </details>
 
 <details>
