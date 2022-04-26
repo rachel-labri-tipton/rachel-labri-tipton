@@ -1,8 +1,8 @@
 <h1 align="center">Hello GitHub 👋, </h1>
-<h1>I am Rachel Tipton - a Full Stack Software Engineer</h1>
+<h1 align="center">I am Rachel Tipton - Full Stack Software Engineer</h1>
 <h3 align="center">🇺🇸  🇫🇷  🇪🇺 </h3>
 
-- 🔭 I’m currently working on **the final module of General Assembly's Software Engineering Immersive**
+- 🔭 I’m currently working on **the final module of General Assembly's Software Engineering Immersive**! 
 
 - 🌱 I’m currently learning **Django, Python, and PostgreSQL**
 
