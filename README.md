@@ -2,7 +2,7 @@
 <h1 align="center">I am Rachel L'Abri Tipton - Junior Full Stack Software Engineer</h1>
 <h3 align="center">🇺🇸  🇫🇷  🇪🇺 </h3>
 
-- 🔭 I’m currently working on **the final module of General Assembly's Software Engineering Immersive**! 
+- 🔭 I've recently completed **General Assembly's Software Engineering Immersive** and am looking for my first job in tech! 
 
 - 🌱 I’m currently learning **Django, Python, and PostgreSQL**
 
