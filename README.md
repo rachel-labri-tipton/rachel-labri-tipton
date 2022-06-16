@@ -4,7 +4,7 @@
 
 - 🔭 I've recently completed **General Assembly's Software Engineering Immersive** and am looking for my first job in tech! 
 
-- 🌱 I’m currently learning **Django, Python, and PostgreSQL**
+- 🌱 I’m currently learning about **Data Structures and Algorithms** and studying **Ruby**
 
 - 👩🏻‍🎤🧑🏾‍🎤 I'm looking to collaborate on **MERN Stack or Django-React projects** or **digital humanities** projects. 
 
@@ -18,9 +18,12 @@
 <details>
 <summary>General Assembly Software Engineering Immersive Projects</summary>
 <ul>
+  
+<li>Project 4 The Community Project</li>
 <li>Project 3 Simply Good Food </li>
 <li>Project 2 Local Space Station (LSS)</li>
 <li>Project 1 Tetris 2.022</li>
+  
 </ul>
 </details>
 
