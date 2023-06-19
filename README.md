@@ -23,7 +23,7 @@
 <li>Analysis Dashboard</li>
 <li>API Documentation</li> 
 </ul>
-</details
+</details>
 
 <details>
 <summary>General Assembly Software Engineering Immersive Projects</summary>
