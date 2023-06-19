@@ -33,7 +33,7 @@
 <li>Project 2 Local Space Station (LSS)</li>
 <li>Project 1 Tetris 2.022</li>
 </ul>
-</details
+</details>
 
 
 <h3 align="left">Connect with me:</h3>
