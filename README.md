@@ -16,34 +16,24 @@
 </details>
 
 <details>
-<summary>General Assembly Software Engineering Immersive Projects</summary>
+<summary>Open Climate Fix</summary>
 <ul>
-<li>Project 3 Simply Good Food </li>
-<li>Project 2 Local Space Station (LSS)</li>
-<li>Project 1 Tetris 2.022</li>
+<li>Quartz Solar App</li>
+<li>Quartz Solar APIs</li>
+<li>Analysis Dashboard</li>
+<li>API Documentation</li> 
 </ul>
 </details
 
 <details>
 <summary>General Assembly Software Engineering Immersive Projects</summary>
 <ul>
-<li>Project 3 Simply Good Food </li>
-<li>Project 2 Local Space Station (LSS)</li>
-<li>Project 1 Tetris 2.022</li>
-</ul>
-</details
-
-<details>
-<summary>General Assembly Software Engineering Immersive Projects</summary>
-<ul>
-  
 <li>Project 4 The Community Project</li>
 <li>Project 3 Simply Good Food </li>
 <li>Project 2 Local Space Station (LSS)</li>
 <li>Project 1 Tetris 2.022</li>
-  
 </ul>
-</details>
+</details
 
 
 <h3 align="left">Connect with me:</h3>
