@@ -2,7 +2,9 @@
 <h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷  🇪🇺 </h3>
 
-- 🔭 Since September 2022, I've worked for [Open Climate Fix](https://openclimatefix.org). I completed a 3-month Full Stack Internship, and I'm now working for them as a Full Stack Developer! 
+- 👩‍💻 I'm currently on the job hunt for roles that riff on the job title Full Stack Developer: Full Stack Software Engineer, Backend Developer, Frontend Developer, Python Developer, Software Engineer
+
+- 🔭 I most recently worked for [Open Climate Fix](https://openclimatefix.org) September 2022 - April 2024 as a Full Stack Intern and then a Full Stack Developer.
 
 - 🌱 I’m currently learning **Go** and want to learn more about **containerization**. 
 
