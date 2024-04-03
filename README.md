@@ -42,6 +42,7 @@
 <a href="https://linkedin.com/in/rachel l'abri tipton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachel l'abri tipton" height="30" width="40" /></a>
 <a href="https://instagram.com/@thequietfight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thequietfight" height="30" width="40" /></a>
 <a href="https://medium.com/@rachel-labri-tipton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rachel-labri-tipton" height="30" width="40" /></a>
+<a href="https://thetechgeneralist.substack.com/" target="blank" </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
