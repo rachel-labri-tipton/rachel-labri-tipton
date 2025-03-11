@@ -1,6 +1,6 @@
 <h1 align="center">Hello GitHub 👋, </h1>
 <h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
-<h3 align="center">🇺🇸  🇫🇷  🇪🇺 </h3>
+<h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
 - 👩‍💻 I'm currently on the job hunt for roles that riff on the job title Full Stack Developer: Full Stack Software Engineer, Backend Developer, Frontend Developer, Python Developer, Software Engineer
 
