@@ -2,39 +2,39 @@
 <h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
-- 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a mid-size internationally-focused company that has a strong team culture, clear career progression, and a focus on code quality and effective communication.
+- 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role ideally with a mid-size internationally-focused company that has a strong team culture, clear career progression and a focus on code quality and effective communication.
 
 -  👩‍💻 I most recently worked for in the L&D space (June 2024 - October 2024)
-
-<h3 align="left">This year I'm...</h3>
-
-- 🌱 Building projects that deepen my knowledge and experience in the following technologies: TypeScript, React, NodeJS, PostgreSQL, MongoDB, Docker, Terraform, AWS.
-- 🤿 Diving deeper into core computer science concepts by studying [Data Structures and Algorithms](https://github.com/rachel-labri-tipton/data-structures-and-algorithms)
-
 
 - 👩🏻‍🎤🧑🏾‍🎤 I'd love to collaborate on projects and am currently finishing my Solo Project with Chingu. 
 
 - In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
+<h2 align="left">This year I'm...</h2>
+
+- 🌱 Building projects that deepen my knowledge and experience in the following technologies: TypeScript, React, NodeJS, PostgreSQL, MongoDB, Docker, Terraform, AWS.
+- 🤿 Diving deeper into core computer science concepts by studying [Data Structures and Algorithms](https://github.com/rachel-labri-tipton/data-structures-and-algorithms)
+
+
 <h3 align="left">Work Experience</h3>
 <details>
 <summary>
-[Brightbook](https://brightbook.io/) as a Full Stack Software Engineer 
+Full Stack Software Engineer at Brightbook (June 2024 - October 2024)
 </summary>
- Brightbook is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes. 
+ [Brightbook](https://brightbook.io/) is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes. 
 </details>
 
 <details>
 <summary>
-[Open Climate Fix](https://openclimatefix.org) as a Full Stack Developer
+Full Stack Developer at Open Climate Fix (September 2022 - April 2024)
 </summary>
-Open Climate Fix is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users.Here is the [code](https://github.com/openclimatefix/quartz-frontend). Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
+[Open Climate Fix](https://openclimatefix.org) is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users.Here is the [code](https://github.com/openclimatefix/quartz-frontend). Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
 In addition to getting a first experience in tech, I learned about the energy sector and the role open source code and community has to play in the energy transition and decarbonizing energy systems. 
 </details>
 
 <details>
 <summary>More About Me</summary>
-✨ I am a former University English Professor and Freelance Technical Editor & Translator who retooled as a Software Engineer with General Assembly's Software Engineering Immersive (November 2021 - May 2022). My current work at Open Climate Fix(OCF) has allowed me to grow as a coder in a tech startup environment. In addition to coding skills, I've also learned about the energy sector and the role open source code has to play in the energy transition and decarbonizing energy systems. 🐬  💫  🐳  ✨ 
+✨ I am a former University English Professor and Freelance Technical Editor & Translator who retooled as a Software Engineer with General Assembly's Software Engineering Immersive (November 2021 - May 2022). 🐬  💫  🐳  ✨ 
 </details>
 
 <details>
