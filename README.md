@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Rachel Tipton 👋. </h1>
-<h1 align="center">I am Full Stack Developer</h1>
+<h1 align="center">Hello, GitHub! 👋. </h1>
+<h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
 - 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a mid-size internationally-focused company that has a strong team culture, clear career progression, and a focus on code quality and effective communication.
