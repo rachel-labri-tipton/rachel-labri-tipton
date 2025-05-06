@@ -1,39 +1,49 @@
-<h1 align="center">Hello GitHub 👋, </h1>
-<h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
+<h1 align="center">Hello, I'm Rachel Tipton 👋. </h1>
+<h1 align="center">I am Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
-- 👩‍💻 I'm currently on the job hunt for roles that riff on the job title Full Stack Developer: Full Stack Software Engineer, Backend Developer, Frontend Developer, Python Developer, Software Engineer
+- 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a mid-size internationally-focused company that has a strong team culture, clear career progression, and a focus on code quality and effective communication.
 
-- 🔭 I most recently worked for [Open Climate Fix](https://openclimatefix.org) September 2022 - April 2024 as a Full Stack Intern and then a Full Stack Developer.
+-  👩‍💻 I most recently worked for in the L&D space (June 2024 - October 2024)
 
-- 🌱 I’m currently learning **Go** and want to learn more about **containerization**. 
+<h3 align="left">This year I'm...</h3>
 
-- 👩🏻‍🎤🧑🏾‍🎤 I'd love to collaborate on projects that build my backend development skills. 
+- 🌱 Building projects that deepen my knowledge and experience in the following technologies: TypeScript, React, NodeJS, PostgreSQL, MongoDB, Docker, Terraform, AWS.
+- 🤿 Diving deeper into core computer science concepts by studying [Data Structures and Algorithms](https://github.com/rachel-labri-tipton/data-structures-and-algorithms)
+
+
+- 👩🏻‍🎤🧑🏾‍🎤 I'd love to collaborate on projects and am currently finishing my Solo Project with Chingu. 
 
 - In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
+<h3 align="left">Work Experience</h3>
 <details>
-<summary>About Me</summary>
+<summary>
+[Brightbook](https://brightbook.io/) as a Full Stack Software Engineer 
+</summary>
+ Brightbook is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes. 
+</details>
+
+<details>
+<summary>
+[Open Climate Fix](https://openclimatefix.org) as a Full Stack Developer
+</summary>
+Open Climate Fix is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users.Here is the [code](https://github.com/openclimatefix/quartz-frontend). Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
+In addition to getting a first experience in tech, I learned about the energy sector and the role open source code and community has to play in the energy transition and decarbonizing energy systems. 
+</details>
+
+<details>
+<summary>More About Me</summary>
 ✨ I am a former University English Professor and Freelance Technical Editor & Translator who retooled as a Software Engineer with General Assembly's Software Engineering Immersive (November 2021 - May 2022). My current work at Open Climate Fix(OCF) has allowed me to grow as a coder in a tech startup environment. In addition to coding skills, I've also learned about the energy sector and the role open source code has to play in the energy transition and decarbonizing energy systems. 🐬  💫  🐳  ✨ 
 </details>
 
 <details>
-<summary>Open Climate Fix</summary>
+<summary>General Assembly Software Engineering Immersive Bootcamp Projects List</summary>
 <ul>
-<li>Quartz Solar App</li>
-<li>Quartz Solar APIs</li>
-<li>Analysis Dashboard</li>
-<li>API Documentation</li> 
-</ul>
-</details>
-
-<details>
-<summary>General Assembly Software Engineering Immersive Projects</summary>
-<ul>
-<li>Project 4 The Community Project</li>
-<li>Project 3 Simply Good Food </li>
-<li>Project 2 Local Space Station (LSS)</li>
-<li>Project 1 Tetris 2.022</li>
+<li>Project 4 The Community Project: : [Frontend Code]() / [Backend Code]()</li>
+<li>Project 3 Simply Good Food: [Frontend Code]() / [Backend Code]()</li>
+<li>Project 2 Local Space Station (LSS):: [Code]()</li>
+<li>Project 1 Tetris 2.022: [Code]()</li>
 </ul>
 </details>
 
