@@ -1,12 +1,10 @@
 <h1 align="center">Hello, GitHub! 👋. </h1>
-<h1 align="center">I am Rachel Tipton - Full Stack Developer</h1>
+<h1 align="center">I'm Rachel Tipton - Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
-- 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role ideally with a mid-size internationally-focused company that has a strong team culture, clear career progression and a focus on code quality and effective communication.
+- 👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a mid-size internationally-focused company that has a strong team culture and clear career progression.
 
--  👩‍💻 I most recently worked for a company called Brightbook in the L&D space (June 2024 - October 2024)
-
-- 👩🏻‍🎤🧑🏾‍🎤 I'd love to collaborate on projects and am currently finishing my Solo Project with Chingu. 
+- 👩🏻‍🎤🧑🏾‍🎤 Outside of work, I love to collaborate on projects and am currently finishing my Solo Project with [Chingu](https://www.chingu.io/howItWorks) so I can join one of their team Voyage projects.
 
 - In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
