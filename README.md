@@ -19,14 +19,14 @@
 <summary>
 Full Stack Software Engineer at Brightbook (June 2024 - October 2024)
 </summary>
-<p>[Brightbook](https://brightbook.io/) is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes.</p> 
+<p>Brightbook is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes.</p> 
 </details>
 
 <details>
 <summary>
 Full Stack Developer at Open Climate Fix (September 2022 - April 2024)
 </summary>
-[Open Climate Fix](https://openclimatefix.org) is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users.Here is the [code](https://github.com/openclimatefix/quartz-frontend). Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
+Open Climate Fix is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users. Here is the <a href="https://github.com/openclimatefix/quartz-frontend">code</a>. Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
 In addition to getting a first experience in tech, I learned about the energy sector and the role open source code and community has to play in the energy transition and decarbonizing energy systems. 
 </details>
 
