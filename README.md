@@ -11,7 +11,7 @@
 <h2 align="left">This year I'm...</h2>
 
 - 🌱 Building projects that deepen my knowledge and experience in the following technologies: TypeScript, React, NodeJS, PostgreSQL, MongoDB, Docker, Terraform, AWS.
-- 🤿 Diving deeper into core computer science concepts by studying [Data Structures and Algorithms](https://github.com/rachel-labri-tipton/data-structures-and-algorithms)
+- 🤿 Diving deeper into core computer science concepts by studying Data Structures and Algorithms and have set up a [repository](https://github.com/rachel-labri-tipton/data-structures-and-algorithms). 
 
 
 <h3 align="left">Work Experience</h3>
@@ -38,10 +38,10 @@ In addition to getting a first experience in tech, I learned about the energy se
 <details>
 <summary>General Assembly Software Engineering Immersive Bootcamp Projects List</summary>
 <ul>
-<li>Project 4 The Community Project: : [Frontend Code]() / [Backend Code]()</li>
-<li>Project 3 Simply Good Food: [Frontend Code]() / [Backend Code]()</li>
-<li>Project 2 Local Space Station (LSS):: [Code]()</li>
-<li>Project 1 Tetris 2.022: [Code]()</li>
+<li>Project 4 The Community Project: : [Frontend Code](https://github.com/rachel-labri-tipton/the-community-project-frontend) / [Backend Code](https://github.com/rachel-labri-tipton/sei-project4-backend)</li>
+<li>Project 3 Simply Good Food: [Frontend Code](https://github.com/rachel-labri-tipton/project-3-client-) / [Backend Code](https://github.com/rachel-labri-tipton/project-3-backend)</li>
+<li>Project 2 Local Space Station (LSS):: [Code](https://github.com/rachel-labri-tipton/project-2)</li>
+<li>Project 1 Tetris 2.022: [Code](https://github.com/rachel-labri-tipton/sei-project1-tetris)</li>
 </ul>
 </details>
 
