@@ -19,7 +19,7 @@
 <summary>
 Full Stack Software Engineer at Brightbook (June 2024 - October 2024)
 </summary>
- [Brightbook](https://brightbook.io/) is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes. 
+<p>[Brightbook](https://brightbook.io/) is an L&D platform with a TypeScript/React frontend and a PostgreSQL/Ruby on Rails backend using TDD principles. My work focused on improving the subscription and invoicing processes.</p> 
 </details>
 
 <details>
