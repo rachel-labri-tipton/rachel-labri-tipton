@@ -37,8 +37,7 @@ In addition to getting a first experience in tech, I learned about the energy se
 
 <details>
 <summary>General Assembly Software Engineering Immersive Bootcamp Projects List</summary>
-<ul>
-<li>Project 4 The Community Project: : [Frontend Code](https://github.com/rachel-labri-tipton/the-community-project-frontend) / [Backend Code](https://github.com/rachel-labri-tipton/sei-project4-backend)</li>
+ - Project 4 The Community Project: : [Frontend Code](https://github.com/rachel-labri-tipton/the-community-project-frontend) / [Backend Code](https://github.com/rachel-labri-tipton/sei-project4-backend)</li>
 <li>Project 3 Simply Good Food: [Frontend Code](https://github.com/rachel-labri-tipton/project-3-client-) / [Backend Code](https://github.com/rachel-labri-tipton/project-3-backend)</li>
 <li>Project 2 Local Space Station (LSS):: [Code](https://github.com/rachel-labri-tipton/project-2)</li>
 <li>Project 1 Tetris 2.022: [Code](https://github.com/rachel-labri-tipton/sei-project1-tetris)</li>
