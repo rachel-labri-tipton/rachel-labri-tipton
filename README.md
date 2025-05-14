@@ -2,9 +2,9 @@
 <h1 align="center">I'm Rachel Tipton - Full Stack Developer</h1>
 <h3 align="center">🇺🇸  🇫🇷 🇧🇪 🇪🇺 </h3>
 
-👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a mid-size internationally-focused company that has a strong team culture and clear career progression.
+👩‍💻 I’m a Full Stack Developer with 2 years of experience. I’m actively seeking a developer role with a scale-up or mid-size internationally-focused company that has a strong team culture and clear career progression.
 
-👩🏻‍🎤🧑🏾‍🎤 Outside of work, I love to collaborate on projects and am currently finishing my Solo Project with [Chingu](https://www.chingu.io/howItWorks) so I can join one of their team Voyage projects.
+👩🏻‍🎤🧑🏾‍🎤 Outside of work, I love to collaborate on projects and am currently finishing my Solo Project with [Chingu](https://www.chingu.io/howItWorks) so I can join one of their team Voyage projects. I'm currently working on a Task Management Calendar App. 
 
 In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
