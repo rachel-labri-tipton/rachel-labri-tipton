@@ -11,7 +11,7 @@ In addition to my love for coding, I have high emotional intellgence and remarka
 <h3 align="left">This year I'm...</h3>
 
 - 🌱 Building projects that deepen my knowledge and experience in the following technologies: TypeScript, React, NodeJS, PostgreSQL, MongoDB, Docker, Terraform, AWS.
-- 🤿 Diving deeper into core computer science concepts by studying Data Structures and Algorithms and have set up a [repository](https://github.com/rachel-labri-tipton/data-structures-and-algorithms) to do exactly that. 
+- 🤿 Diving deeper into core computer science concepts by studying Data Structures and Algorithms and have set up a [repository](https://github.com/rachel-labri-tipton/data-structures-and-algorithms) to do exactly that. This summer I'm participating in Women Coding Community's LeetCode Summer Bootcamp. 
 
 
 <h3 align="left">Work Experience</h3>
