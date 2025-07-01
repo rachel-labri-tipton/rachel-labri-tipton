@@ -26,7 +26,7 @@ Full Stack Software Engineer at Brightbook (June 2024 - October 2024)
 <summary>
 Full Stack Developer at Open Climate Fix (September 2022 - April 2024)
 </summary>
-Open Climate Fix is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users. Here is the <a href="https://github.com/openclimatefix/quartz-frontend" target="_blank" rel="noreferrer">code</a>. Here is the [product page](https://www.quartz.solar/). I also wrote [API Documentation](https://api.quartz.solar/docs) and built an [Analysis Dashboard](https://github.com/openclimatefix/analysis-dashboard) for ML engineers to monitor forecast model performance. 
+Open Climate Fix is an AI company building Quartz Solar, a renewable energy forecasting solution. My work on the Quartz Solar UI and API brought the work of OCF's ML engineers to users. Here is the <a href="https://github.com/openclimatefix/quartz-frontend" target="_blank" rel="noreferrer">code</a>. Here is the <a href="https://www.quartz.solar/" target="_blank" rel="noreferrer">product page</a>. I also wrote <a href="https://api.quartz.solar/docs" target="_blank" rel="noreferrer">API Documentation</a> and built an <a href="https://github.com/openclimatefix/analysis-dashboard" target="_blank" rel="noreferrer">Analytics Dashboard</a> for ML engineers to monitor forecast model performance. 
 In addition to getting a first experience in tech, I learned about the energy sector and the role open source code and community has to play in the energy transition and decarbonizing energy systems. 
 </details>
 
@@ -37,10 +37,10 @@ In addition to getting a first experience in tech, I learned about the energy se
 
 <details>
 <summary>General Assembly Software Engineering Immersive Bootcamp Projects List</summary>
- - Project 4 The Community Project: : [Frontend Code](https://github.com/rachel-labri-tipton/the-community-project-frontend) / [Backend Code](https://github.com/rachel-labri-tipton/sei-project4-backend)</li>
-<li>Project 3 Simply Good Food: [Frontend Code](https://github.com/rachel-labri-tipton/project-3-client-) / [Backend Code](https://github.com/rachel-labri-tipton/project-3-backend)</li>
-<li>Project 2 Local Space Station (LSS):: [Code](https://github.com/rachel-labri-tipton/project-2)</li>
-<li>Project 1 Tetris 2.022: [Code](https://github.com/rachel-labri-tipton/sei-project1-tetris)</li>
+ - Project 4 The Community Project: : <a href="https://github.com/rachel-labri-tipton/the-community-project-frontend" target="_blank" rel="noreferrer">Frontend Code</a>/ <a href="https://github.com/rachel-labri-tipton/sei-project4-backend" target="_blank" rel="noreferrer">Backend Code</a></li>
+<li>Project 3 Simply Good Food: <a href="https://github.com/rachel-labri-tipton/project-3-client-" target="_blank" rel="noreferrer">Frontend Code</a>/ <a href="https://github.com/rachel-labri-tipton/project-3-backend" target="_blank" rel="noreferrer">Backend Code</a></li>
+<li>Project 2 Local Space Station (LSS):: <a href="https://github.com/rachel-labri-tipton/project-2" target="_blank" rel="noreferrer">Code</a></li>
+<li>Project 1 Tetris 2.022: <a href="https://github.com/rachel-labri-tipton/sei-project1-tetris" target="_blank" rel="noreferrer">Code</a></li>
 </ul>
 </details>
 
