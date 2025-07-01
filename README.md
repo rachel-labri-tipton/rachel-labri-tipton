@@ -4,7 +4,7 @@
 
 👩‍💻 I’m a Full Stack Developer with 2-3 years of experience. I’m actively seeking a developer role with a scale-up or mid-size internationally-focused company that has a strong team culture and clear career progression.
 
-👩🏻‍🎤🧑🏾‍🎤 Outside of work, I love to collaborate on projects and am currently finishing my Solo Project with [Chingu](https://www.chingu.io/howItWorks) so I can join one of their team Voyage projects. I'm currently working on a Task Management Calendar App. 
+👩🏻‍🎤🧑🏾‍🎤 Outside of work, I love to collaborate on projects and am currently finishing my Solo Project with [Chingu](https://www.chingu.io/howItWorks) so I can join one of their team Voyage projects. I'm currently working on a Task Management Calendar App. Feel free to check out the [frontend](https://github.com/rachel-labri-tipton/zoku-next-frontend-app) and [backend](https://github.com/rachel-labri-tipton/zoku-calendar-app-backend) code. 
 
 In addition to my love for coding, I have high emotional intellgence and remarkable communication skills. 🌝 
 
